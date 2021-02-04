@@ -1,3 +1,5 @@
+Originally Developed for MIT 6.009 
+
 A progression of data-representation techniques:
 
 flat: Working with lists of records with primitive fields, as in a naive implementation of the relational data model. Top-level dictionary, which is simply a "tuple" of lists, and each list is a mapping. Not surprisingly, quite inefficient, and needs a double loop to find grades on a pset.
